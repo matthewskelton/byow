@@ -52,7 +52,7 @@ We will now look to see how WordPress uses HTML to create our pages. Firstly, we
 1. We'll now underline some text in a similar way to how we created our web page in Part 1. Find a word or sentence in the editor area and place a `<u>` before it and a `</u>` after it - this will underline the word or sentence.
 1. Click the 'Visual' tab at the top right of the editor to switch back to visual mode - the word or sentence should now be underlined.
 
-WordPress is using the same kind of HTML as we used in Part 1 to define bold, underline, and headings.
+WordPress is using the same kind of HTML as we used in Part 1 to define bold, underline, and headings, which means that if we need to correct any formatting which is not displaying correctly, we can do so, using standard HTML.
 
 (5) View page source
 -------------------
@@ -77,3 +77,11 @@ So we can see that the way which WordPress contructs whole web pages is actually
 To expand your website, you can add a series of blog posts (see 'Posts'), or experiment with 'Widgets', small parts of the page used to show things like categories, tags, your latest Twitter updates, and many other things; see 'Appearance' --> 'Widgets'.
 
 Just remember: underneath all the wizardy, WordPress is doing little more than creating web pages in HTML, just as you can do in a text editor!
+
+(7) What have we learnt?
+------------------------
+We have created ourselves a WordPress website, and chosen a theme. 
+
+We have created a page (or two) and seen how WordPress uses HTML 'behind the scenes' to apply formatting to the text we write. This is useful in cases where the formatting is not quite working correctly - we can fix the HTML ourselves.
+
+We have also seen how WordPress uses HTML to contruct the entire web page.

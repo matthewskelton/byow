@@ -12,6 +12,9 @@ By starting with HTML, we can 'demystify' the apparently complexity of websites.
 
 **Please feel free to use/fork this tutorial for your own training sessions - feedback welcome!**
 
+For a brief guide to delivering software training, see my blog post here:
+http://blog.matthewskelton.net/2011/11/04/tips-for-delivering-software-training/
+
 Structure
 ---------
 

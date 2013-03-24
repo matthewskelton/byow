@@ -12,8 +12,8 @@ In this part, we'll register for a WordPress blog website, create some pages, an
 We will use the popular WordPress.com platform to create a simple public website.
 
 1. Go to http://wordpress.com/ in your browser
-1. Click on Get Started --> https://signup.wordpress.com/signup/
-	1. Fill in your details
+1. Click on Get Started --> https://signup.wordpress.com/signup/ should be the resulting page
+    1. Fill in your details
 1. Choose the Free plan
 1. Verify your email address if necessary
 1. Go to the Dashboard (My Blogs --> Blog Admin)

@@ -1,6 +1,10 @@
 Build Your Own Website - Part 1 - HTML
 ======================================
 
+Synopsis
+--------
+In this part, we'll create our own webpage from first principles, learning in the process how web pages are built.
+
 *Example files are numbered byow-XX.html where XX corresponds to the numbered headings below. Screenshots of how each set of HTML markup appears are included as byow-XX.png*
 
 (1) Websites vs Apps

@@ -10,6 +10,8 @@ Although few websites these days use hand-crafted HTML, I believe it is still im
 
 By starting with HTML, we can 'demystify' the apparently complexity of websites.
 
+**Please feel free to use/fork this tutorial for your own training sessions - feedback welcome!**
+
 Structure
 ---------
 

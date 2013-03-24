@@ -73,6 +73,7 @@ We'll now see how WordPress uses HTML to create the whole page (not just the tex
 So we can see that the way which WordPress contructs whole web pages is actually the same as the method we used in Part 1, just with a larger number of HTML elements.
 
 (6) Exploring WordPress
+-----------------------
 To expand your website, you can add a series of blog posts (see 'Posts'), or experiment with 'Widgets', small parts of the page used to show things like categories, tags, your latest Twitter updates, and many other things; see 'Appearance' --> 'Widgets'.
 
 Just remember: underneath all the wizardy, WordPress is doing little more than creating web pages in HTML, just as you can do in a text editor!

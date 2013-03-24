@@ -5,7 +5,7 @@ Synopsis
 --------
 In this part, we'll register for a WordPress blog website, create some pages, and see how HTML is used by WordPress to create pages.
 
-*Screenshots of how each step are included as byow-XX.png*
+*Screenshots of how each step are included as WordPress-XX-Y.png, where XX is the numbered section below, and Y is the numbered bullet-point within that section.*
 
 (1) Register for WordPress
 --------------------------

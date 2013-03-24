@@ -151,7 +151,7 @@ Back in the text editor, change the text to look like this:
 	</body>
 </html>
 ```
-That is, include the following markup just after the `<h1 />` element, and inside the `<body /> element:
+That is, include the following markup just after the `<h1 />` element, and inside the `<body />` element:
 ```
 		<p>Here is a picture of a cat:</p>
 		<img src="http://upload.wikimedia.org/wikipedia/commons/4/4c/Lolcat.jpg" />

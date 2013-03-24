@@ -55,7 +55,7 @@ Open up a text editor:
 
 Enter the following text
 
-```
+```html
 <!DOCTYPE html>
 <html>
 	<head>
@@ -75,7 +75,7 @@ The browser will display a blank page, because at the moment, although our web p
 We'll now change the title of the page so that the browser displays the page title in the system menu.
 
 Back in the text editor, change the text to look like this:
-```
+```html
 <!DOCTYPE html>
 <html>
 	<head>
@@ -92,7 +92,7 @@ Save the file, and refresh the page in your browser. You should see that the pag
 We'll now add a heading, making some text appear in the page.
 
 Back in the text editor, change the text to look like this:
-```
+```html
 <!DOCTYPE html>
 <html>
 	<head>
@@ -111,7 +111,7 @@ Save the file, and refresh the page in your browser. You should see that the pag
 Let's change the typeface to something more modern.
 
 Back in the text editor, change the text to look like this:
-```
+```html
 <!DOCTYPE html>
 <html>
 	<head>
@@ -126,7 +126,7 @@ Back in the text editor, change the text to look like this:
 </html>
 ```
 That is, just after the `<title />` element, and within the `<head />` element, add the following markup:
-```
+```html
 		<style type="text/css">
 			body {font-family: sans-serif;}
 		</style>
@@ -141,7 +141,7 @@ We'll now add an image to the page.
 The important thing to know about images (and other multi-media files, such as Flash, and videos) is that they are not stored in the HTML itself, but are stored separately somewhere on a server, and retrieved and displayed by the web browser when it processes the HTML page.
 
 Back in the text editor, change the text to look like this:
-```
+```html
 <!DOCTYPE html>
 <html>
 	<head>
@@ -158,7 +158,7 @@ Back in the text editor, change the text to look like this:
 </html>
 ```
 That is, include the following markup just after the `<h1 />` element, and inside the `<body />` element:
-```
+```html
 		<p>Here is a picture of a cat:</p>
 		<img src="http://upload.wikimedia.org/wikipedia/commons/4/4c/Lolcat.jpg" />
 ```
@@ -171,7 +171,7 @@ Save the file, and refresh the page in your browser. You should see the text 'He
 We'll now change the styles for the page to make the image display a bit nicer.
 
 Back in the text editor, change the text to look like this:
-```
+```html
 <!DOCTYPE html>
 <html>
 	<head>
@@ -189,7 +189,7 @@ Back in the text editor, change the text to look like this:
 </html>
 ```
 That is, include the following markup just after the `body {font-family: sans-serif;}` declaration, inside the `<style />` element:
-```
+```html
 		img {border-width: 10px; border-style:ridge; width: 30%;}
 ```
 By including a style specification for 'img' items, we're asking the browser to display a border of 10 pixels (px), a ridged border style, and a maximum image width of 30% of the browser's window width.
@@ -201,7 +201,7 @@ Save the file, and refresh the page in your browser. You should see that the ima
 We'll now add a hyperlink to the page, linking to another (external) web page.
 
 Back in the text editor, change the text to look like this:
-```
+```html
 <!DOCTYPE html>
 <html>
 	<head>
@@ -220,7 +220,7 @@ Back in the text editor, change the text to look like this:
 </html>
 ```
 That is, include the following markup just after the `<h1 />` declaration, before the `<p />` element:
-```
+```html
 		<p>A hyperlink: <a href="http://en.wikipedia.org/wiki/HTML">Here is what Wikipedia has to say about HTML</a></p>
 ```
 Hyperlinks (called 'anchors', hence the `a` element) specify not only the page or website to link to (using the `href` attribute), but also the text to display in the clickable link.

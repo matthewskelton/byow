@@ -1,6 +1,8 @@
 Build Your Own Website - Part 1 - HTML
 ======================================
 
+*Example files are numbered byow-XX.html where XX corresponds to the numbered headings below. Screenshots of how each set of HTML markup appears are included as byow-XX.png*
+
 (1) Websites vs Apps
 --------------------
 Explain how websites are different from apps that you install on your phone or tablet - the instructions are stored on a server and only downloaded to the web browser when requested. By contrast, the instructions for an app are stored on the mobile device when you first download the app.

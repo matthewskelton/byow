@@ -15,26 +15,25 @@ Structure
 
 There are two parts to *Build Your Own Website*:
 
-1. The basics of HTML
+1. The basics of HTML - how webpages are built
     1. Website vs. 'apps'
     1. Hyper Text Markup Language
     1. View Source in a browser
     1. Head + Body
-    1. Page structure
+    1. Example HTML
     1. Title 
     1. Heading
-    1. Fonts - font-family
-    1. Images - img src border
+    1. Font style - Typeface
+    1. Images
+    1. Basic styles
     1. Hyperlinks
-    1. Wikipedia example
-1. The basics of WordPress
+1. The basics of WordPress - using a website builder
     1. Register
     1. Themes
     1. About / Contact
     1. Add a blog post
     1. View Source
     1. Source view in editor
-
 
 
 Background

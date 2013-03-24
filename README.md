@@ -17,7 +17,9 @@ There are two parts to *Build Your Own Website*:
 
 1. The basics of HTML
     1.1. Website vs. 'apps'
+
     1.1. Hyper Text Markup Language
+    
     1.1. View Source in a browser
     1.1. Head + Body
     1.1. Page structure

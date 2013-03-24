@@ -30,12 +30,12 @@ There are two parts to *Build Your Own Website*:
     1. Basic styles
     1. Hyperlinks
 1. The basics of WordPress - using a website builder
-    1. Register
-    1. Themes
-    1. About / Contact
-    1. Add a blog post
-    1. View Source
-    1. Source view in editor
+    1. Register for a WordPress website
+    1. Choose a Theme
+    1. Create About / Contact pages
+    1. Look at the editor HTML
+    1. View Source of the whole page
+    1. Exploring WordPress
 
 
 Background

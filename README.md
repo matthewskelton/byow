@@ -21,6 +21,8 @@ There are two parts to *Build Your Own Website*:
     1. View Source in a browser
     1. Head + Body
     1. Page structure
+    1. Title 
+    1. Heading
     1. Fonts - font-family
     1. Images - img src border
     1. Hyperlinks
@@ -38,4 +40,4 @@ There are two parts to *Build Your Own Website*:
 Background
 ----------
 
-This tutorial came out of a workshop I ran at one of the 'Engineering Day' sessions held at [thetrainline.com](http://engineering.thetrainline.com/). 
+This tutorial came out of a workshop I ran at one of the 'Engineering Day' sessions held at [thetrainline.com](http://engineering.thetrainline.com/) for non-technical staff. 
